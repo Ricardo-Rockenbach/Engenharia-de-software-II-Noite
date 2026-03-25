@@ -35,3 +35,5 @@ export class Priest extends Personagem {
     }
   }
 }
+
+
